@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SCA App</string>
+    <string name="topHeader">Seattle Christian Assembly</string>
+    <string name="buttonEnglish">Begin</string>
+    <string name="buttonSchedule">Meeting Schedule</string>
+    <string name="buttonMessages">Messages</string>
+    <string name="buttonContact">Contact</string>
+    <string name="buttonBeliefs">Beliefs</string>
+    <string name="SundayMessages">Sunday Messages</string>
+    <string name="StephenKuangMessages">Stephen Kaung\'s Messages</string>
+    <string name="BibleStudyMessages">Bible Study Messages</string>
+    <string name="GodwinMessages">Godwin Sun\'s Messages</string>
+    <string name="WCCCMessages">WCCC Messages</string>
+    <string name="buttonSpecialMeeting">Special Meeting Messages</string>
+    <string name="headerID">Header</string>
+</resources>
