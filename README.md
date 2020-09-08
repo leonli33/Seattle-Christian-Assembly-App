@@ -1,1 +1,1 @@
-The app can be seen on the android app store here: https://play.google.com/store/apps/details?id=com.leon.scaapp&hl=en_US. 
+This mobile application was made the summer after I took my first class in Java and allows the user to listen to messages from my church's website. The app can be seen on the android app store here: https://play.google.com/store/apps/details?id=com.leon.scaapp&hl=en_US. 
